@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/wanyelj/wanyelj.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanyelj/wanyelj.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<meta charset="utf-8">
+	<title>我的第一个网页</title>
+</head>
+<body>
+<h1>一、个人简介</h1>
+ <div>
+  <h2>一、姓名：雷俊</h2>
+	<h2>二、民族：汉</h2>
+	<h2>三、出生日期：2002.11.20</h2>
+	<h2>四、兴趣爱好</h2>
+      <p>作为一个平平凡凡的大学生，没有什么特别热爱的东西，心中也没有什么特别伟大的理想，不过平时喜欢看看小说动漫，还会玩一下游戏；会运动，但不经常，常玩的有乒乓球和羽毛球等。	</p>
+  </div>    
+  <div><img src="E:\2021学期课程计划及资料\计算概论\个人网页用"></div>
+ <h1>二、闲谈</h1>
+   <p>来到北京后，我去了一些博物馆，还在北大里面逛了一下，这里有一些图片。这里的食物的风格也和我们那儿不一样，很多菜品都偏甜或者较为清淡，刚开始的时候的确有些不习惯，后来渐渐地就有些习惯了，不过还是很怀念家里的味道。北京这儿的气候也不同，前两天和我妈打电话，听她说我们那儿这两天还热的很呢，而北京，竟然听说有地方已经开始下雪了...</p>
+   <table>
+   	<tr>
+   		<td><img src="E:\2021学期课程计划及资料\计算概论\个人网页用"></td>
+      <td><img src="E:\2021学期课程计划及资料\计算概论\个人网页用"></td>
+     </tr>   
+   <p>再说几句，北大里面的猫也很多，而且还不怕人，但我怕他们，我怕被挠，所以只是远远的照了几张照片，没拍好看；有天我看见一只猫，蹲在井盖上，晒着太阳，看着路上人来人往，就像一个退休大爷，看着其他人为生活而奔波，但自己内心却古井无波，实在是太惬意了。</p>
+   <table>
+     <tr>
+       <td><img src="E:\2021学期课程计划及资料\计算概论\个人网页用"></td>
+       <td><img src="E:\2021学期课程计划及资料\计算概论\个人网页用"></td>
+     </tr>
+   </table>
+</body>
+</html>
